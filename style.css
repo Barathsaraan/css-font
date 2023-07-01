@@ -1,0 +1,48 @@
+table,th,tr{
+	border-collapse:collapse;
+	border: 1px solid red;
+	text-align:center;
+	margin:auto;
+	
+}
+
+
+.a{
+	font-style:normal;
+	background-color:yellow;
+	color:green;
+}
+.b{
+	font-style:italic;
+}
+.c{
+	font-style:oblique;
+}
+.d{
+	font-weight:normal;
+}
+.e{
+	font-weight:bold;
+}
+.f{
+	font-weight:lighter;
+}
+.g{
+	font-variant:normal;
+}
+.h{
+	font-variant:small-caps;
+}
+.i{
+	font-variant:smaller uppercase;
+}
+.j{
+	font-size:30px;
+}
+
+.k{
+	font-size:large;
+}
+.l{
+	font:normal small-caps bold 50px garamond,serif;
+}
